@@ -1,6 +1,9 @@
-EatSmart-V2[Cahier-des-charges.md](https://github.com/user-attachments/files/22385417/Cahier-des-charges.md)
+---
+
 Projet : EatSmart
 
+
+---
 Etudiants :BOUABBOUNE Aymen
 
 
