@@ -9,14 +9,14 @@ Etudiants :BOUABBOUNE Aymen
 
 ---
 
-### Description du projet**
+Description du projet
 
 EatSmart est une application  restaurant, permettant aux clients de consulter le menu, passer des commandes en ligne, et gérer leur compte via un système de connexion sécurisé. Côté gestion, une base de données assure le suivi des commandes, utilisateurs et plats.
 
 
 ---
 
-###🌐 Fonctionnalités principales
+ Fonctionnalités principales
 
 Frontend (eatSmartFront)**
 
@@ -40,18 +40,14 @@ Fonctionnalité 1 :
 Voir les commandes 
   
 Fonctionnalité : 
-Envoyer les commandes 
-
-Fonctionnalité 
-
-
+Envoyer la reponse des  commandes 
 
 ---
 
 
 🛠️ Technologies utilisées
 
-- **Frontend : HTML5, CSS3, JavaScript 
-- **Backend :MYySql ; Php , PhpMyAdmin , Api 
-- **Base de données :** (Technologies prévues)
+- Frontend : HTML5, CSS3, JavaScript 
+- Backend :MYySql ; Php , PhpMyAdmin , Api 
+- Base de données :** (Technologies prévues)
 
