@@ -31,7 +31,7 @@ Fonctionnalité 1 :
 -Voir les commandes 
   
 Fonctionnalité : 
--Envoyer la reponse des  commandes 
+-voir le statut des commandes 
 
 ---
 
