@@ -11,16 +11,16 @@ EatSmart est une application  restaurant, permettant aux clients de consulter le
 
                                                             Frontend (eatSmartFront)**
 
-- Fonctionnalité  :
+ Fonctionnalité  :
 - Visionner les commandes
 
-- Fonctionnalité  :
+ Fonctionnalité  :
 - S'authentifier
 
-- Fonctionnalité  :
+ Fonctionnalité  :
 - Voir le menu
 
-- Fonctionnalité :
+Fonctionnalité :
 - Commander
    
 ---
