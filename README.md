@@ -42,7 +42,7 @@ Fonctionnalité :
 
 - Frontend : HTML5, CSS3, JavaScript 
 - Backend :MYySql ; Php , PhpMyAdmin , Api 
-- Base de données :** (Technologies prévues)
+- Base de données : MySql
 
 
 <img width="1072" height="620" alt="image" src="https://github.com/user-attachments/assets/553c52c9-33b7-40df-aaa7-cfd59c5054b1" />
