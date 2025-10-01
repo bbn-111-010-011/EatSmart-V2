@@ -1,16 +1,10 @@
----
-
 Projet : EatSmart
-
 Etudiants :BOUABBOUNE Aymen
 
-
 ---
-
 Description du projet
 
 EatSmart est une application  restaurant, permettant aux clients de consulter le menu, passer des commandes en ligne, et gérer leur compte via un système de connexion sécurisé. Côté gestion, une base de données assure le suivi des commandes, utilisateurs et plats.
-
 
 ---
 
