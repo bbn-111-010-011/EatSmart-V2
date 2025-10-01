@@ -27,7 +27,7 @@ Fonctionnalité :
 
                                                             Backend (eatSmartBack)**
 
-Fonctionnalité 1 : 
+Fonctionnalité  : 
 -Voir les commandes 
   
 Fonctionnalité : 
