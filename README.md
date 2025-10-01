@@ -1,9 +1,5 @@
                                                                 Projet : EatSmart
 ---
-
-ce projet a etait créer par 
-:BOUABBOUNE Aymen
-
 ---
 Description du projet
 
