@@ -1,4 +1,4 @@
-Projet : EatSmart
+                                                                Projet : EatSmart
 ---
 
 ce projet a etait créer par 
